@@ -1,1 +1,11 @@
-
+Summary: Login page The button`register` not firing after clicking on the page,
+Project: Shop Zara,
+Component: Registration form,
+Version: 5,64,
+Severity: Critical,
+Priority: High,
+Status: Open,
+Author: Tatiana Gordievskaia,
+Steps for reproduce: Open Login page, clicking the buttom `register`,
+Result: The page does not go to the registration page,
+Expected Result:The page goes to the registration page
