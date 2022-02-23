@@ -1,0 +1,4 @@
+name: Gordievskaia Tatiana Nikolaevna
+age: 34
+pets:0
+desired salary: 150000
