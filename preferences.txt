@@ -1,0 +1,5 @@
+favorite film: The Martian
+favorite series: This is us
+favorite food: fish
+favorite season: summer
+country I want to visit: Norway

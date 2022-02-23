@@ -1,0 +1,23 @@
+skills1: The theory of software testing,
+
+skills2: Creation and updating of test documentation,
+
+skills3: Understanding of client-server architecture,
+
+skills4: GitBash,
+
+skills5: GitHub,
+
+skills6: SQL (PostgreSQL),
+
+skills7: Postman,
+
+skills8: Mobile testing,
+
+skills9: DevTools,
+
+skills10: Charles Proxy,
+
+skills11: Fiddler,
+
+skills12: Jmeter
